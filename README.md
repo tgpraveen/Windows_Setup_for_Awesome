@@ -6,6 +6,8 @@ Software to install:
 
 2. Cmder - cmder.net
 
-3. Anaconda
+3. Chrome
 
-4. LiClipse/Pycharm community
+4. Anaconda
+
+5. LiClipse/Pycharm community
