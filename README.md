@@ -11,3 +11,5 @@ Software to install:
 4. Anaconda
 
 5. LiClipse/Pycharm community
+
+6. Wox and Everything - Alfred like tool and file search.
