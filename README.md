@@ -13,3 +13,5 @@ Software to install:
 5. LiClipse/Pycharm community
 
 6. Wox and Everything - Alfred like tool and file search.
+
+7. Visual Studio Code.
