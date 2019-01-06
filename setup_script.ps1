@@ -12,5 +12,6 @@ choco install anaconda3 -y
 choco install pycharm-community -y
 choco install wox -y
 choco install everything -y
+choco install vscode -y
 
 # Add Anaconda main dir (with python.exe) and Scripts dir to PATH.
